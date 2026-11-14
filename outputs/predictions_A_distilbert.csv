@@ -1,0 +1,11 @@
+text,reference,prediction
+I love this product,POSITIVE,POSITIVE
+This movie is terrible,NEGATIVE,NEGATIVE
+The food was delicious,POSITIVE,POSITIVE
+I hate this experience,NEGATIVE,NEGATIVE
+The service was excellent,POSITIVE,POSITIVE
+This is the worst purchase,NEGATIVE,NEGATIVE
+I am very happy today,POSITIVE,POSITIVE
+The quality is extremely poor,NEGATIVE,NEGATIVE
+The product works perfectly,POSITIVE,POSITIVE
+I would never recommend this,NEGATIVE,POSITIVE

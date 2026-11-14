@@ -1,0 +1,11 @@
+text,text,prediction,score,registered_model,model_version,hf_model_id
+I absolutely loved the experience and would recommend it to everyone.,I absolutely loved the experience and would recommend it to everyone.,POSITIVE,0.9989171028137207,sentiment-model,1,siebert/sentiment-roberta-large-english
+The service was terrible and I will never return.,The service was terrible and I will never return.,NEGATIVE,0.9995043277740479,sentiment-model,1,siebert/sentiment-roberta-large-english
+The product works exactly as expected.,The product works exactly as expected.,POSITIVE,0.998895525932312,sentiment-model,1,siebert/sentiment-roberta-large-english
+I am disappointed with the quality.,I am disappointed with the quality.,NEGATIVE,0.9995055198669434,sentiment-model,1,siebert/sentiment-roberta-large-english
+This was one of the best purchases I have made.,This was one of the best purchases I have made.,POSITIVE,0.9989008903503418,sentiment-model,1,siebert/sentiment-roberta-large-english
+The experience was frustrating and unpleasant.,The experience was frustrating and unpleasant.,NEGATIVE,0.9995038509368896,sentiment-model,1,siebert/sentiment-roberta-large-english
+I am happy with the final result.,I am happy with the final result.,POSITIVE,0.9988929629325867,sentiment-model,1,siebert/sentiment-roberta-large-english
+The delivery was late and the packaging was damaged.,The delivery was late and the packaging was damaged.,NEGATIVE,0.9995040893554688,sentiment-model,1,siebert/sentiment-roberta-large-english
+Everything was excellent from start to finish.,Everything was excellent from start to finish.,POSITIVE,0.9988800883293152,sentiment-model,1,siebert/sentiment-roberta-large-english
+"It was an average experience, nothing special.","It was an average experience, nothing special.",NEGATIVE,0.9985490441322327,sentiment-model,1,siebert/sentiment-roberta-large-english
