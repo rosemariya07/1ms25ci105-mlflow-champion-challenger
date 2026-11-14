@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+mlruns/
+mlflow.db
+*.sqlite
+*.pt
+*.pth
+*.bin
+*.safetensors
+.cache/
